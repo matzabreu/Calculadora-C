@@ -1,0 +1,14 @@
+C:\Users\abreu\Calculator\bin\Debug\net7.0\Calculator.exe
+C:\Users\abreu\Calculator\bin\Debug\net7.0\Calculator.deps.json
+C:\Users\abreu\Calculator\bin\Debug\net7.0\Calculator.runtimeconfig.json
+C:\Users\abreu\Calculator\bin\Debug\net7.0\Calculator.dll
+C:\Users\abreu\Calculator\bin\Debug\net7.0\Calculator.pdb
+C:\Users\abreu\Calculator\obj\Debug\net7.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abreu\Calculator\obj\Debug\net7.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\abreu\Calculator\obj\Debug\net7.0\Calculator.AssemblyInfo.cs
+C:\Users\abreu\Calculator\obj\Debug\net7.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\abreu\Calculator\obj\Debug\net7.0\Calculator.dll
+C:\Users\abreu\Calculator\obj\Debug\net7.0\refint\Calculator.dll
+C:\Users\abreu\Calculator\obj\Debug\net7.0\Calculator.pdb
+C:\Users\abreu\Calculator\obj\Debug\net7.0\Calculator.genruntimeconfig.cache
+C:\Users\abreu\Calculator\obj\Debug\net7.0\ref\Calculator.dll
